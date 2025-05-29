@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Hemanth Kuncha</h1>
 <h3 align="center">Network engineer leveling up to DevOps engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkuncha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkuncha" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthkuncha](https://github.com/hemanthkuncha)
 
 - 🌱 I’m currently learning **AWS DEVOPS**
@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Networking and DevOps**
 
 - 📫 How to reach me **hemanthkuncha06@gmail.com**
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
